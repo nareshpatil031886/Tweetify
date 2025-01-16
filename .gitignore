@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+env/
+
+# Python files
+*.pyc
+__pycache__/
+
+# Migrations
+**/migrations/
+
+# Django secrets and settings
+*.sqlite3
+*.log
+.env
+
+# Cache
+*.cache
+*.mo
+*.pot
+.DS_Store
+*.swp
+*.swo
+*.py[co]
